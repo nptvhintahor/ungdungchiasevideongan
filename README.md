@@ -15,4 +15,5 @@ Các chức năng ban đầu
    * Lưu trữ video trực tiếp trên bộ nhớ ứng dụng ( Tính năng xem xét điều kiện, có thể gỡ )
 - Tải video trực tiếp về máy
    * tải video về và lưu trực tiếp trên bộ nhớ của thiết bị
+- Khi thực hiện chuyển đổi tài khoản và đăng nhập bằng tài khoản khác vẫn xem được video mà tài khoản kia đã chia sẻ
 - Các chức năng khác ( Mở rộng sau )
