@@ -9,6 +9,10 @@ Các chức năng ban đầu
    * Đăng ký tài khoản bằng số điện thoại, bằng gmail, bằng các thể khác ( mở rộng sau )
 - Có mục yêu thích video
 - mục comment trên video
-- Lưu trữ video trên lữu trữ app
+   * Cho phép comment với chữ và số và các ký tự được cho phép ( Chưa có mở rộng sticker )
+   * Comment đăng tải lên không cho phép sửa chỉ có thể xoá ( Áp dụng tính năng của các nền tảng khác )
+- Lưu trữ video trên lữu trữ ứng dụng
+   * Lưu trữ video trực tiếp trên bộ nhớ ứng dụng ( Tính năng xem xét điều kiện, có thể gỡ )
 - Tải video trực tiếp về máy
+   * tải video về và lưu trực tiếp trên bộ nhớ của thiết bị
 - Các chức năng khác ( Mở rộng sau )
