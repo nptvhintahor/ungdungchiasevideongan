@@ -1,0 +1,16 @@
+@"
+# Flutter
+my_app/build/
+my_app/.dart_tool/
+my_app/.idea/
+my_app/.flutter-plugins
+my_app/.flutter-plugins-dependencies
+
+# Node.js
+backend/node_modules/
+backend/uploads/videos/
+
+# General
+*.log
+.env
+"@ | Out-File -FilePath .gitignore -Encoding utf8
